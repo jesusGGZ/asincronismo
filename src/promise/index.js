@@ -17,6 +17,7 @@ const somethingWillHappen2 = () => (
         if (true) {
             setTimeout(() => {
                 
+                
             }, timeout);
         }
     });
